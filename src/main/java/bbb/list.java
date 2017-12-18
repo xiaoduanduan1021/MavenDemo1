@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
 
 import org.junit.Test;
 
@@ -134,4 +136,10 @@ public class list {
 	int indexFor2(int h, int length) {  
 		return h & length;  
 	}  
+	
+	
+	
+	//测试linkedlist是否有序
+	public void mm(){
+	}
 }
